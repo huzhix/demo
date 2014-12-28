@@ -1,3 +1,2 @@
 this is my first add content
-<<<<<<< HEAD
 second line & test
